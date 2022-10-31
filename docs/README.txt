@@ -1,3 +1,9 @@
+Hellow, my name is Israel, this proyect was the first website that I made in high school for a final proyect, with HTML5, CSS3 and a JavaScript.
+I used a template and then I modified for to look as I wanted it to look according to the company I created for this specific project. 
+The tampleate i taked from html5up.net.
+
+Readme from HTML5UP:
+
 Helios by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
