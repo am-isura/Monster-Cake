@@ -2,6 +2,9 @@ Hellow, my name is Israel, this proyect was the first website that I made in hig
 I used a template and then I modified for to look as I wanted it to look according to the company I created for this specific project. 
 The tampleate i taked from html5up.net.
 
+You can visit the page here:
+https://am-isura.github.io/Monster-Cake/docs/
+
 Readme from HTML5UP:
 
 Helios by HTML5 UP
@@ -37,3 +40,5 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+		
+		
